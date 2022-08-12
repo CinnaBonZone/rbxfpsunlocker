@@ -1,3 +1,5 @@
+## NOTICE: THIS INFO IS FROM THE OG ONE, IF YOU WANT TO VIEW THE DOWNLOADS GO TO THE OG ONE
+
 ## Usage
 1. Download the latest release from https://github.com/axstin/rbxfpsunlocker/releases
 2. Extract `rbxfpsunlocker-x64.zip` into a folder
